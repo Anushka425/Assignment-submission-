@@ -1,0 +1,17 @@
+div{
+    color: whitesmoke ;
+    background-color: rgb(78, 221, 190);
+    border: 5px;
+    border-color: whitesmoke;
+    border-style: solid;
+    border-radius: 20px;
+    width: 300px;
+    box-shadow: 10px 10px 10px 10px rgb(59, 168, 145);
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    
+}
+body{
+    display: flex;
+}
